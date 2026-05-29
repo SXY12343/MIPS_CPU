@@ -1,0 +1,41 @@
+Unable to capture context for thread 31916 in process 21712, can not generate back trace
+Unable to capture context for thread 30872 in process 21712, can not generate back trace
+Unable to capture context for thread 22928 in process 21712, can not generate back trace
+Unable to capture context for thread 1496 in process 21712, can not generate back trace
+Exception at PC 0x00007FFF583ABB93
+Printing stacktrace...
+
+Exception at PC 0x00007FF8209DF39C
+Unable to capture context for thread 6324 in process 21712, can not generate back trace
+Exception at PC 0x00007FF8209DF39C
+Exception at PC 0x00007FF8209DF39C
+Exception at PC 0x00007FF8209DF39C
+Exception at PC 0x00007FF8209DF39C
+Exception at PC 0x00007FF8209DF39C
+Exception at PC 0x00007FF8209DF39C
+[0]  [0x00007FFF583ABB93]
+[1]  [0x00007FFF583ABB93]
+[2]  [0x00007FFF583AB4A1]
+[3]  [0x00007FFF583AB459]
+[4]  [0x00007FFF583919FE]
+[5]  [0x00007FFF58390ED1]
+[6]  [0x00007FFF58390D76]
+[7]  [0x00007FFF583379F6]
+[8]  [0x00007FFF58327AFB]
+[9]  [0x00007FFF5844E90A]
+[10]  [0x00007FFF58469F87]
+[11]  [0x00007FFF5846A05F]
+[12] (BaseThreadInitThunk+0x1d) [0x00007FF8215C257D]
+[13] (RtlUserThreadStart+0x28) [0x00007FF82318AF28]
+Done
+Exception at PC 0x00007FF8209DF39C
+Exception at PC 0x00007FF8209DF39C
+Exception at PC 0x00007FF8209DF39C
+Exception at PC 0x00007FF8209DF39C
+Exception at PC 0x00007FF8209DF39C
+Exception at PC 0x00007FF8209DF39C
+Exception at PC 0x00007FF8209DF39C
+Exception at PC 0x00007FF8209DF39C
+Exception at PC 0x00007FF8209DF39C
+Exception at PC 0x00007FF8209DF39C
+Exception at PC 0x00007FF8209DF39C

@@ -1,0 +1,28 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Tue Oct 29 18:35:46 2024
+# Process ID: 19752
+# Current directory: D:/大二下所有文件/作业/计组verilog/CPU54
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2964 D:\大二下所有文件\作业\计组verilog\CPU54\CPU54.xpr
+# Log file: D:/大二下所有文件/作业/计组verilog/CPU54/vivado.log
+# Journal file: D:/大二下所有文件/作业/计组verilog/CPU54\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/大二下所有文件/作业/计组verilog/CPU54/CPU54.xpr
+INFO: [Project 1-313] Project file moved from 'D:/CPU54' since last save.
+WARNING: [Project 1-312] File not found as 'D:/大二下所有文件/作业/计组verilog/test.coe'; using path 'D:/test.coe' instead.
+WARNING: [Project 1-312] File not found as 'D:/大二下所有文件/作业/计组verilog/EggDrop.coe'; using path 'D:/EggDrop.coe' instead.
+Scanning sources...
+Finished scanning sources
+WARNING: [Project 1-312] File not found as 'D:/大二下所有文件/作业/计组verilog/test.coe'; using path 'D:/test.coe' instead.
+WARNING: [Project 1-312] File not found as 'D:/大二下所有文件/作业/计组verilog/EggDrop.coe'; using path 'D:/EggDrop.coe' instead.
+WARNING: [Project 1-312] File not found as 'D:/大二下所有文件/作业/计组verilog/test.coe'; using path 'D:/test.coe' instead.
+WARNING: [Project 1-312] File not found as 'D:/大二下所有文件/作业/计组verilog/EggDrop.coe'; using path 'D:/EggDrop.coe' instead.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado/2016.2/data/ip'.
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Oct 29 20:52:41 2024...

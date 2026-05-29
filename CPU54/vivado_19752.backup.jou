@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Tue Oct 29 18:35:46 2024
+# Process ID: 19752
+# Current directory: D:/大二下所有文件/作业/计组verilog/CPU54
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2964 D:\大二下所有文件\作业\计组verilog\CPU54\CPU54.xpr
+# Log file: D:/大二下所有文件/作业/计组verilog/CPU54/vivado.log
+# Journal file: D:/大二下所有文件/作业/计组verilog/CPU54\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/大二下所有文件/作业/计组verilog/CPU54/CPU54.xpr
+update_compile_order -fileset sources_1
